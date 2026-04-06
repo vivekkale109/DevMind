@@ -14,7 +14,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/you/devmind-cli
+git clone https://github.com/vivekkale109/devmind-cli
 cd devmind-cli
 pip install -e .
 
